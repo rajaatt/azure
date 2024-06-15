@@ -8,8 +8,8 @@
 <body>
      <h1>Working Links for the Project:</h1>
   <ul>
-    <li>Web Application hosted on Azure: <a href=""> Sneaker Enthusiasts </a></li>
-    <li>Github Repository: <a href="">Azure_Project_Repository </a></li>
+    <li>Web Application hosted on Azure: <a href="http://52.142.41.234/final-project-main/main/user/"> Sneaker Enthusiasts </a></li>
+    <li>Github Repository: <a href="https://github.com/rajaatt/azure">Azure_Project_Repository </a></li>
     <li>Project Documentation With Project Videos: <a href="">Drive_Link</a></li>
     <li>Short video: <a href="">Short_VIDEO_LINK</a></li>
     <li>Documentation: <a href="">Documentation_pdf</a></li>
