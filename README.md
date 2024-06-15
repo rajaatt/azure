@@ -117,7 +117,6 @@
 ![Screenshot 2024-06-15 074254](https://github.com/rajaatt/azure/assets/169874142/b188c653-2b13-4816-9ee1-f0b078aeddd7)
 ![Screenshot 2024-06-15 081637](https://github.com/rajaatt/azure/assets/169874142/b85669ab-4111-44fd-ba44-bc1210ff3577)
 ![Screenshot 2024-06-15 083536](https://github.com/rajaatt/azure/assets/169874142/c82d2e97-34b5-4541-9e5f-dcda44111e58)
-
         <li>Azure Monitor</li>
         <hr>
         
