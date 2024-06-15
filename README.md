@@ -55,7 +55,8 @@
     <h2>List of Azure Services</h2>
     <ul>
         <li>Azure Virtual Machines</li>
-
+<hr>
+        
 ![Screenshot (68)](https://github.com/rajaatt/azure/assets/169874142/42f3cc4d-58aa-4d23-8e5b-54f98d946e51)
 ![Screenshot (69)](https://github.com/rajaatt/azure/assets/169874142/3c1ae1fb-9342-4b64-a90b-7b8f22418824)
 ![Screenshot (70)](https://github.com/rajaatt/azure/assets/169874142/645e6cc2-3a2b-4deb-a7d7-fb759580a05c)
@@ -80,32 +81,37 @@
 ![Screenshot (89)](https://github.com/rajaatt/azure/assets/169874142/95dbf5d5-6bdf-41dc-b0d8-10e48399d6bb)
 ![Screenshot (91)](https://github.com/rajaatt/azure/assets/169874142/20ebfa15-fe27-4e32-af0f-9695c0bc64f6)
         <li>Azure AI</li>
-        
+        <hr>
         <li>Azure Monitor</li>
-![Screenshot (101)](https://github.com/rajaatt/azure/assets/169874142/1ceb140d-0639-414c-8995-0156f4011065)
-![Screenshot (100)](https://github.com/rajaatt/azure/assets/169874142/e1ae4076-a01b-48b1-a886-b1ab991ea822)
-![Screenshot (99)](https://github.com/rajaatt/azure/assets/169874142/6fd27210-06b8-4b56-80ff-1c2f6b58d028)
-![Screenshot (98)](https://github.com/rajaatt/azure/assets/169874142/814270c1-2334-47c0-8c17-f8253f7234f9)
-![Screenshot (97)](https://github.com/rajaatt/azure/assets/169874142/415c2872-4556-4f97-9b78-e227e4e9e9d5)
-![Screenshot (96)](https://github.com/rajaatt/azure/assets/169874142/1eff5b3a-af08-44e5-b23d-33e23350a8d1)
-![Screenshot (95)](https://github.com/rajaatt/azure/assets/169874142/a60d7934-8fae-465f-80db-07e6a30d2ff0)
-![Screenshot (94)](https://github.com/rajaatt/azure/assets/169874142/0a2a593c-1a0a-43ec-b2de-819e82c1ed1e)
-![Screenshot (93)](https://github.com/rajaatt/azure/assets/169874142/468c78f4-06b3-4bf2-af8b-4b856d462557)
+        <hr>
+        
 ![Screenshot (92)](https://github.com/rajaatt/azure/assets/169874142/c5e5d2c4-6972-4457-998c-34a4198e8721)
+![Screenshot (93)](https://github.com/rajaatt/azure/assets/169874142/468c78f4-06b3-4bf2-af8b-4b856d462557)
+![Screenshot (94)](https://github.com/rajaatt/azure/assets/169874142/0a2a593c-1a0a-43ec-b2de-819e82c1ed1e)
+![Screenshot (95)](https://github.com/rajaatt/azure/assets/169874142/a60d7934-8fae-465f-80db-07e6a30d2ff0)
+![Screenshot (96)](https://github.com/rajaatt/azure/assets/169874142/1eff5b3a-af08-44e5-b23d-33e23350a8d1)
+![Screenshot (97)](https://github.com/rajaatt/azure/assets/169874142/415c2872-4556-4f97-9b78-e227e4e9e9d5)
+![Screenshot (98)](https://github.com/rajaatt/azure/assets/169874142/814270c1-2334-47c0-8c17-f8253f7234f9)
+![Screenshot (99)](https://github.com/rajaatt/azure/assets/169874142/6fd27210-06b8-4b56-80ff-1c2f6b58d028)
+![Screenshot (100)](https://github.com/rajaatt/azure/assets/169874142/e1ae4076-a01b-48b1-a886-b1ab991ea822)
+![Screenshot (101)](https://github.com/rajaatt/azure/assets/169874142/1ceb140d-0639-414c-8995-0156f4011065)
         <li>Azure Log Analytics</li>
-![Screenshot (114)](https://github.com/rajaatt/azure/assets/169874142/e909474a-5136-496f-a0dc-3b06be47c738)
-![Screenshot (113)](https://github.com/rajaatt/azure/assets/169874142/42999368-0680-45b1-ba6c-3fa78c890efd)
-![Screenshot (112)](https://github.com/rajaatt/azure/assets/169874142/78821cee-04e3-4845-83bb-df7384e8a343)
-![Screenshot (111)](https://github.com/rajaatt/azure/assets/169874142/7c00be8a-fe4c-48c3-8e08-e3f35339bbb6)
-![Screenshot (110)](https://github.com/rajaatt/azure/assets/169874142/5a209592-0bff-4cf7-aa5f-fc681e213dd3)
-![Screenshot (109)](https://github.com/rajaatt/azure/assets/169874142/4bf83960-d424-40e0-89c3-2bf389ef4fbb)
-![Screenshot (108)](https://github.com/rajaatt/azure/assets/169874142/5f99fcfb-0122-46c5-9fc5-274819a2bdd7)
-![Screenshot (107)](https://github.com/rajaatt/azure/assets/169874142/24e6af96-15e6-469f-8642-3d32746dd030)
-![Screenshot (106)](https://github.com/rajaatt/azure/assets/169874142/f7957ad4-6a21-4cb6-905c-ee9fb49d4b57)
-![Screenshot (105)](https://github.com/rajaatt/azure/assets/169874142/50613083-119b-4896-ae4a-b10f6ac39a7a)
-![Screenshot (104)](https://github.com/rajaatt/azure/assets/169874142/93d5cdfe-0066-456d-b655-ed877ebeccae)
-![Screenshot (103)](https://github.com/rajaatt/azure/assets/169874142/6307425e-f834-401e-a30d-aa938ad282d6)
+<hr>  
+
 ![Screenshot (102)](https://github.com/rajaatt/azure/assets/169874142/108f082d-b2fe-4179-abc3-d71cd57b32a0)
+![Screenshot (103)](https://github.com/rajaatt/azure/assets/169874142/6307425e-f834-401e-a30d-aa938ad282d6)
+![Screenshot (104)](https://github.com/rajaatt/azure/assets/169874142/93d5cdfe-0066-456d-b655-ed877ebeccae)
+![Screenshot (105)](https://github.com/rajaatt/azure/assets/169874142/50613083-119b-4896-ae4a-b10f6ac39a7a)
+![Screenshot (106)](https://github.com/rajaatt/azure/assets/169874142/f7957ad4-6a21-4cb6-905c-ee9fb49d4b57)
+![Screenshot (107)](https://github.com/rajaatt/azure/assets/169874142/24e6af96-15e6-469f-8642-3d32746dd030)
+![Screenshot (108)](https://github.com/rajaatt/azure/assets/169874142/5f99fcfb-0122-46c5-9fc5-274819a2bdd7)
+![Screenshot (109)](https://github.com/rajaatt/azure/assets/169874142/4bf83960-d424-40e0-89c3-2bf389ef4fbb)
+![Screenshot (110)](https://github.com/rajaatt/azure/assets/169874142/5a209592-0bff-4cf7-aa5f-fc681e213dd3)
+![Screenshot (111)](https://github.com/rajaatt/azure/assets/169874142/7c00be8a-fe4c-48c3-8e08-e3f35339bbb6)
+![Screenshot (112)](https://github.com/rajaatt/azure/assets/169874142/78821cee-04e3-4845-83bb-df7384e8a343)
+![Screenshot (113)](https://github.com/rajaatt/azure/assets/169874142/42999368-0680-45b1-ba6c-3fa78c890efd)
+![Screenshot (114)](https://github.com/rajaatt/azure/assets/169874142/e909474a-5136-496f-a0dc-3b06be47c738)
+
 </ul>
     <h2>Web Technologies Used</h2>
     <p>Frontend: PHP, JavaScript, HTML5, Bootstrap<br>
