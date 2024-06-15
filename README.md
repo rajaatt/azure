@@ -166,6 +166,7 @@
 ![Screenshot (118)](https://github.com/rajaatt/azure/assets/169874142/747db65e-fc92-4dfb-94a2-7b24886e710a)
     <h2>Resource Visualization</h2>
     <div class="highlight">
+    ![sneaker-res](https://github.com/rajaatt/azure/assets/169874142/fb75857a-45ba-42f5-a7cb-92e4f1eb8fd4)
         <p><strong>Azure Virtual Machines:</strong> Used for scalable application deployment and management.</p>
         <p><strong>AI-powered Chatbot:</strong> Integrated for automated customer interaction and support.</p>
         <p><strong>Monitoring and Alert Systems:</strong> Ensures real-time health monitoring and issue detection.</p>
