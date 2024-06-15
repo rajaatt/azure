@@ -11,7 +11,7 @@
     <li>Web Application hosted on Azure: <a href="http://52.142.41.234/final-project-main/main/user/"> Sneaker Enthusiasts </a></li>
     <li>Github Repository: <a href="https://github.com/rajaatt/azure">Azure_Project_Repository </a></li>
     <li>Project Documentation With Project Videos: <a href="https://drive.google.com/drive/folders/1QTfu0pzwNp9JleqlUpqlYvK6SgjD2Z6g?usp=drive_link">Drive_Link</a></li>
-    <li>Short video: <a href="">Short_VIDEO_LINK</a></li>
+    <li>Short video: <a href="https://drive.google.com/file/d/1wm7dsLBRAq2fqUlvH3SajuIEdalnCwXS/view?usp=drive_link">Short_VIDEO_LINK</a></li>
     <li>Documentation: <a href="https://drive.google.com/file/d/1AokRwVJznBMs0cKBDjtfyKwqmXDRgEIG/view?usp=drive_link">Documentation_pdf</a></li>
   </ul>
     <h1>E-commerce Platform for Sneaker Enthusiasts</h1>
