@@ -152,6 +152,18 @@
     <p>Frontend: PHP, JavaScript, HTML5, Bootstrap<br>
     Backend: PHP for server-side scripting<br>
     Database: MySQL for data storage and management</p>
+    <h2>Website Preview</h2>
+    
+![Screenshot (119)](https://github.com/rajaatt/azure/assets/169874142/8eb1492c-050f-459e-8dec-eba9bbb617a9)
+![Screenshot (120)](https://github.com/rajaatt/azure/assets/169874142/407dcb6f-805f-4f6c-b591-0ab1a10116c5)
+![Screenshot (121)](https://github.com/rajaatt/azure/assets/169874142/b676856e-38f3-47f2-ad63-f80cebeb5ad0)
+![Screenshot (122)](https://github.com/rajaatt/azure/assets/169874142/fc1740df-55b5-49c2-83ed-53cadf587ed0)
+![Screenshot (123)](https://github.com/rajaatt/azure/assets/169874142/c5dff414-0e0e-47db-afdf-fa4cf08f0c2d)
+![Screenshot (124)](https://github.com/rajaatt/azure/assets/169874142/ca03b557-bab6-4d85-96e2-c92aa86078a9)
+![Screenshot (115)](https://github.com/rajaatt/azure/assets/169874142/1c015117-ebc2-433f-9b13-afa133e7b361)
+![Screenshot (116)](https://github.com/rajaatt/azure/assets/169874142/950b3530-01cb-47a6-9a66-30c9962a5444)
+![Screenshot (117)](https://github.com/rajaatt/azure/assets/169874142/94677f7d-7b0b-4070-83f6-061dfbe7a3a2)
+![Screenshot (118)](https://github.com/rajaatt/azure/assets/169874142/747db65e-fc92-4dfb-94a2-7b24886e710a)
     <h2>Resource Visualization</h2>
     <div class="highlight">
         <p><strong>Azure Virtual Machines:</strong> Used for scalable application deployment and management.</p>
